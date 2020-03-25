@@ -1,0 +1,4 @@
+flask
+wtforms
+weasyprint
+Flask-WeasyPrint
